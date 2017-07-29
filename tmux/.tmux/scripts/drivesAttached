@@ -1,0 +1,6 @@
+#!/bin/bash
+if [ -e "/home/logan/.SHARES/WORKGROUP" ] ; then
+    echo "Mounted"
+else
+    echo "Not Mounted"
+fi
