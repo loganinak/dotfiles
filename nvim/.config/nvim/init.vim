@@ -2,6 +2,7 @@ call plug#begin('~/.local/share/nvim/plugged')
 Plug 'lervag/vimtex'
 Plug 'altercation/vim-colors-solarized'
 Plug 'tmux-plugins/vim-tmux'
+Plug 'tpope/vim-fugitive'
 call plug#end()
 
 syntax enable
