@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -e "/home/logan/.SHARES/WORKGROUP" ] ; then
+if [ -e "/home/logan/logan/Projects" ] ; then
     echo "Mounted"
 else
     echo "Not Mounted"
